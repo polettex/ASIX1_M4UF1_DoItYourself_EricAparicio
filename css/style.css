@@ -1,0 +1,43 @@
+* {
+    font-family: 'Merriweather', serif;
+  }
+
+  body {
+    margin: 20%;
+  }
+
+  img {
+    width: 70%;
+    border: 1px solid green;
+    display: block;
+    margin: auto;
+  }
+
+  #id_title {
+    text-align: center;
+    font-size: 25px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  div {
+    border: 2px solid red;
+    border-radius: 5px;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  table {
+    background-color: rgb(152, 226, 230);
+    border: 1px solid #dddddd;
+    border-spacing: 20px;
+    width: 100%;
+  }
